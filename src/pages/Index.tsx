@@ -15,11 +15,9 @@ const Index = () => {
         <HeroSection />
       </main>
       <hr className="section-divider-ultra" />
-      <section className="section-inverted" id="how-it-works">
-        <div className="max-w-6xl mx-auto">
-          <HowItWorksSection />
-        </div>
-      </section>
+      <div id="how-it-works" className="max-w-6xl mx-auto">
+        <HowItWorksSection />
+      </div>
       <hr className="section-divider" />
       <main className="max-w-6xl mx-auto" id="features">
         <FeaturesSection />
