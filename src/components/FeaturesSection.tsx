@@ -41,7 +41,7 @@ const FeaturesSection = () => {
         What It Does
       </h2>
       <p className="font-body text-lg text-muted-foreground max-w-2xl mb-16 md:mb-20">
-        A comprehensive toolkit for understanding, navigating, and documenting any codebase—powered by advanced AI.
+        A comprehensive toolkit for understanding, navigating, and documenting  codebase—powered by advanced AI.
       </p>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-0 border border-foreground">
